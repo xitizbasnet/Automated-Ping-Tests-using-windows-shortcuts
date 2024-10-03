@@ -1,5 +1,6 @@
 # Automated-Ping-Tests-using-windows-shortcuts
-Automated Ping Tests using windows shortcuts 
+
+Date: 2081/04/17(October 03, 2024)
 
 These tools are invaluable for assessing network reachability between devices, especially when direct access to those devices isn’t possible and on-site staff may not be technically proficient.
 
@@ -7,7 +8,7 @@ While you could instruct the user over the phone to navigate through their syste
 
 By creating a couple of shortcuts and placing them on the desktop in advance, you can simply ask the user to double-click the shortcut whenever they encounter an issue and then report back the output.
 
-Start 
+*** Start **** 
 
 To create these shortcuts, right-click on the desktop or in the desired folder and select "Create Shortcut." From there, you can easily configure the shortcuts to run specific network diagnostic commands.
 
@@ -31,7 +32,7 @@ Now we have the shortcut, with the descriptive name and all the user has to do i
 
 Done.
 
-Finish
+**** Finish ****
 
 
 
