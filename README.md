@@ -14,7 +14,11 @@ To create these shortcuts, right-click on the desktop or in the desired folder a
 Then, in the Create Shortcut pop-up window, where it is asking for a path, type "C:\Windows\System32\cmd.exe" /k ping 8.8.8.8",
 (or whatever destination you want that workstation to ping). Then click next.
 
-![image](https://github.com/user-attachments/assets/0aea0391-880b-4d0b-b680-913a8008a390)
+![image](https://github.com/user-attachments/assets/5909ed12-0385-4f1c-b9df-8e3ed78c3737)
+
+
+![image](https://github.com/user-attachments/assets/69b00830-7983-4136-a76e-5df9facb55cd)
+
 
 Now give the shortcut a descriptive name that the user will understand. for example i will name it as Google Ping Request. 
 
